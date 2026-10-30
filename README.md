@@ -2,8 +2,9 @@
 
 An interactive, self-contained browser demo of one intuition from network-aware churn analysis: when a member's churn-risk signal changes, connected members may receive a weighted message, and their neighbors may receive messages in later rounds.
 
-**Live demo:** https://nandevers.github.io/network-churn-message-passing-demo/  
-**Portfolio:** https://nandevers.github.io/
+**Live demo:** https://nandolab.github.io/network-churn-message-passing-demo/
+
+**Portfolio:** https://nandolab.github.io/
 
 ## Important scope
 
